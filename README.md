@@ -8,7 +8,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - A Raspberry Pi board. For this tutorial I have Raspberry Pi 3 Model B with built-in WIFI and Bluetooth.
 - Official Raspberry Pi Camera V2 Module. For this tutorial I ordered 'Sony IMX219 Light-sensitive Chips 8MP Pixels 1080P Video Original RPI 3 Camera'
 - Acrylic case transparent Shell cover with Cooling Fan (Optional - just to prevent your circuit from getting heat up)
-- Micro sdcard for storage
+- Micro SD card for storage
 - Power adapter or usb cable to power up your Raspberry Pi
 
 ## Assembly
@@ -23,5 +23,17 @@ You need to assemble as follows:
 
 ## Operating System Installation
 For this tutorial I downloaded and installed Raspbian OS for Raspberry PI. You can see the downloads on official raspberryPi site here: https://www.raspberrypi.org/downloads/raspbian/
+You will need to download and install operating system on the mounted SD card.
+
+### Steps
+- Download the required OS from above mentioned link.
+- Extract it and copy the files to sdcard.
+- For the 1st time, Plug in your keyboard, mouse, and monitor cables.
+- Insert micro SD Card into your Raspberry Pi, and plug the Pi into a power source.
+- You will see an installer. You should check the box for Raspbian, and then click Install.
+- The default login for Raspbian is username 'pi' with the password 'raspberry' if asked.
+
+
+
 
 
