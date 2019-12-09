@@ -65,7 +65,7 @@ Save and run your program. The camera preview should be shown for five seconds a
 ## Turning Live Streaming into Surveillance System
 ````java
 camera.start_preview()
-camera.start_recording('/home/pi/Desktop/video.h264')
+camera.start_recording('/home/pi/Desktop/video.h264')   // this will record audio till it stop
 /* camera.capture('/home/pi/Desktop/image.jpg') 
     this takes picture
 */
