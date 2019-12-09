@@ -1,4 +1,4 @@
-# Goal: Live Streaming Using Pi
+# Goal: Live Streaming using Pi
 The Goal is to build live video streaming application using Raspberry Pi and its Camera Module.
 
 ## Getting Started with Raspberry Pi
