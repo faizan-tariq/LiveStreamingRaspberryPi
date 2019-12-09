@@ -50,9 +50,6 @@ You will see following Pi Confiruation menu, and you can see camera option in th
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/c.png" width="500"/>
 
 ## Writing Python Script
-
-
-
 ````java 
 from picamera import PiCamera
 from time import sleep
@@ -63,3 +60,16 @@ sleep(5)  // live streaming will stop after 5 seconds
 camera.stop_preview()
 ````
 Save and run your program. The camera preview should be shown for five seconds and then close again.
+
+
+## Turning Live Streaming into Surveillance System
+````java
+camera.start_preview()
+camera.start_recording('/home/pi/Desktop/video.h264')
+/* camera.capture('/home/pi/Desktop/image.jpg') 
+    this takes picture
+*/
+sleep(5)
+camera.stop_recording()
+camera.stop_preview()
+````
