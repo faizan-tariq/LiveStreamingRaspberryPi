@@ -11,7 +11,9 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - Micro sdcard for storage
 - Power adapter or usb cable to power up your Raspberry Pi
 
+<p float="left">
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/1.png" width="150"/>
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/2.png" width="150"/>
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/3.png" width="150"/>
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/4.png" width="150"/>
+</p>
