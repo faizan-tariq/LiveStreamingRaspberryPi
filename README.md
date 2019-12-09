@@ -20,3 +20,8 @@ You need to assemble as follows:
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/4.png" width="200"/>
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/1.png" width="200"/>
 </p>
+
+## Operating System Installation
+For this tutorial I downloaded and installed Raspbian OS for Raspberry PI. You can see the downloads on official raspberryPi site here: https://www.raspberrypi.org/downloads/raspbian/
+
+
