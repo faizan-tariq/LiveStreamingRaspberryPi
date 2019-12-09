@@ -37,6 +37,10 @@ Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-in
 
 <img align="left" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/5.png" width="300">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img>
 
+
+
+
+
 ## Getting Started with Camera Module
 From the prompt run 
 - ````java sudo apt-get update ````
