@@ -43,4 +43,12 @@ From the prompt run
 - ````java sudo apt-get upgrade ````
 - ````java sudo raspi-config ````
 
+You will see following Pi Confiruation menu, and you can see camera option in the end. If you don't see camera option then may be your camera device is not properly connected with PI.
+
+<p float="left">
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/a.png" width="200"/>
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/b.png" width="200"/>
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/c.png" width="200"/>
+</p>
+
 
