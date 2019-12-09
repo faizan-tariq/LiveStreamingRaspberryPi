@@ -33,6 +33,9 @@ You will need to download and install operating system on the mounted SD card.
 - You will see an installer. You should check the box for Raspbian, and then click Install.
 - The default login for Raspbian is username 'pi' with the password 'raspberry' if asked.
 
+Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
+
+
 
 
 
