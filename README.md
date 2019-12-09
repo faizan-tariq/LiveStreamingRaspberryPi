@@ -34,10 +34,7 @@ You will need to download and install operating system on the mounted SD card.
 - The default login for Raspbian is username 'pi' with the password 'raspberry' if asked.
 
 Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
-<p float="left">
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/5.png" width="400"/>
-Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian. 
-</p>
+<img align="left"src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/5.png" width="400">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img>
 
 
 
