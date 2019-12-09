@@ -39,8 +39,8 @@ Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-in
 
 ## Getting Started with Camera Module
 From the prompt run 
-````java sudo apt-get update ````
-````java sudo apt-get upgrade ````
-````java sudo raspi-config ````
+- ````java sudo apt-get update ````
+- ````java sudo apt-get upgrade ````
+- ````java sudo raspi-config ````
 
 
