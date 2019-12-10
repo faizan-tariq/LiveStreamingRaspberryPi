@@ -47,7 +47,7 @@ You will need to download and install operating system on the mounted SD card.
 
 Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
 
-<img align="left" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="350"></img>Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.
+<img align="right" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="350"></img>Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.
 
 ## Getting Started with Camera Module
 From the prompt run 
