@@ -11,6 +11,13 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - Micro SD card for storage
 - Power adapter or usb cable to power up your Raspberry Pi
 
+## My Order Detail
+- Raspberry Pi: https://www.aliexpress.com/item/32615114907.html
+- Camera Module: https://www.aliexpress.com/item/32672304634.html
+- Acrylic case: https://www.aliexpress.com/item/32562317225.html
+
+
+
 ## Assembly
 You need to assemble as follows:
 
