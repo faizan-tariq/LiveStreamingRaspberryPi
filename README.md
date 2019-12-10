@@ -18,7 +18,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 There are 2 models for Raspberry Pi-3, model B and model B+, since B+ is dedicated for high GPU processing which is suitable for image processing. Since my project wasn't related to much image processing so choosed model B. 
 Make sure your camera module is compatible with model and version of your Raspberry Pi.
 </br></br>
-I ordered following items:
+I ordered following items (Total Cost: 63.6 USD):
 - Raspberry Pi: https://www.aliexpress.com/item/32615114907.html
 - Camera Module: https://www.aliexpress.com/item/32672304634.html
 - Acrylic Case: https://www.aliexpress.com/item/32562317225.html
