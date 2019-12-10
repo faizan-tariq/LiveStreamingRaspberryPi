@@ -16,7 +16,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - Camera Module: https://www.aliexpress.com/item/32672304634.html
 - Acrylic case: https://www.aliexpress.com/item/32562317225.html
 
-
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/1.png" width="300"/>
 
 ## Assembly
 You need to assemble as follows:
