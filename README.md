@@ -15,12 +15,12 @@ We will cover what ever you need to setup and all the basic steps to follow when
 
 ## My Order Detail
 <img align="right" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/6.png" width="300"></img>
-There were 2 models for Raspberry Pi-3, model B and model B+, since B+ is dedicated for high GPU processing which is suitable for image processing. Since my project wasn't related to much image processing so choosed model B. 
+There are 2 models for Raspberry Pi-3, model B and model B+, since B+ is dedicated for high GPU processing which is suitable for image processing. Since my project wasn't related to much image processing so choosed model B. 
 I ordered following items:
 - Raspberry Pi https://www.aliexpress.com/item/32615114907.html
 - Camera Module https://www.aliexpress.com/item/32672304634.html
 - Acrylic case https://www.aliexpress.com/item/32562317225.html
-</br></br></br>
+Make sure your camera module is compatible with model and version of your Raspberry Pi.
 
 ## Assembly
 You need to assemble as follows:
