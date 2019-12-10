@@ -14,7 +14,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - Power adapter or usb cable to power up your Raspberry Pi
 
 ## My Order Detail
-<img align="left" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/6.png" width="300"></img>
+<img align="right" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/6.png" width="300"></img>
 </br></br>
 - Raspberry Pi: https://www.aliexpress.com/item/32615114907.html
 - Camera Module: https://www.aliexpress.com/item/32672304634.html
