@@ -18,9 +18,9 @@ We will cover what ever you need to setup and all the basic steps to follow when
 There are 2 models for Raspberry Pi-3, model B and model B+, since B+ is dedicated for high GPU processing which is suitable for image processing. Since my project wasn't related to much image processing so choosed model B. 
 Make sure your camera module is compatible with model and version of your Raspberry Pi.
 #### I ordered following items (Total Cost: 63.6 USD):
-- Raspberry Pi: https://www.aliexpress.com/item/32615114907.html
-- Camera Module: https://www.aliexpress.com/item/32672304634.html
-- Acrylic Case: https://www.aliexpress.com/item/32562317225.html
+- Raspberry Pi: <a href="https://www.aliexpress.com/item/32615114907.html"/>
+- Camera Module: <a href="https://www.aliexpress.com/item/32672304634.html"/>
+- Acrylic Case: <a href="https://www.aliexpress.com/item/32562317225.html"/>
 
 
 ## Assembly
@@ -34,7 +34,7 @@ You need to assemble as follows:
 </p>
 
 ## Operating System Installation
-For this tutorial I downloaded and installed Raspbian OS for Raspberry PI. You can see the downloads on official raspberryPi site here: https://www.raspberrypi.org/downloads/raspbian/
+For this tutorial I downloaded and installed Raspbian OS for Raspberry PI. You can see the downloads on official raspberryPi site here: <a href="https://www.raspberrypi.org/downloads/raspbian/"/>
 You will need to download and install operating system on the mounted SD card.
 
 ### Steps
@@ -45,7 +45,7 @@ You will need to download and install operating system on the mounted SD card.
 - You will see an installer. You should check the box for Raspbian, and then click Install.
 - The default login for Raspbian is username 'pi' with the password 'raspberry' if asked.
 
-Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
+Details can be found here: <a href="https://projects.raspberrypi.org/en/projects/noobs-install"/>
 
 <img align="left" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="300">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img></br></br></br></br></br></br></br>
 
