@@ -1,4 +1,4 @@
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/7.png"/>
 
 # Goal: Live Streaming using Pi
 The Goal is to build live video streaming application using Raspberry Pi and its Camera Module.
@@ -27,10 +27,10 @@ I ordered following items (Total Cost: 63.6 USD):
 You need to assemble as follows:
 
 <p float="left">
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/2.png" width="200"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/3.png" width="200"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/4.png" width="200"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/1.png" width="200"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/2.png" width="200"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/3.png" width="200"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/4.png" width="200"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/1.png" width="200"/>
 </p>
 
 ## Operating System Installation
@@ -47,7 +47,7 @@ You will need to download and install operating system on the mounted SD card.
 
 Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
 
-<img align="left" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/5.png" width="300">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img></br></br></br></br></br></br></br>
+<img align="left" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="300">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img></br></br></br></br></br></br></br>
 
 ## Getting Started with Camera Module
 From the prompt run 
@@ -57,9 +57,9 @@ From the prompt run
 
 You will see following Pi Confiruation menu, and you can see camera option in the end. If you don't see camera option then may be your camera device is not properly connected with PI.
 
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/a.png" width="500"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/b.png" width="500"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/c.png" width="500"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/a.png" width="500"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/b.png" width="500"/>
+<img src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/c.png" width="500"/>
 
 ## Writing Python Script
 ````java 
