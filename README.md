@@ -8,7 +8,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 
 ## What do you need?
 - A Raspberry Pi board. For this tutorial I have Raspberry Pi 3 Model B with built-in WIFI and Bluetooth.
-- Official Raspberry Pi Camera V2 Module. For this tutorial I ordered 'Sony IMX219 Light-sensitive Chips 8MP Pixels 1080P Video Original RPI 3 Camera'
+- Official Raspberry Pi Camera V2 Module. For this tutorial I ordered 'Camera V2 Module with Sony IMX219 Light-sensitive Chips 8MP Pixels 1080P Video Original RPI 3 Camera'
 - Acrylic case transparent Shell cover with Cooling Fan (Optional - just to prevent your circuit from getting heat up)
 - Micro SD card for storage
 - Power adapter or usb cable to power up your Raspberry Pi
