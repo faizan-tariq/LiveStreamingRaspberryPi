@@ -1,3 +1,5 @@
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png"/>
+
 # Goal: Live Streaming using Pi
 The Goal is to build live video streaming application using Raspberry Pi and its Camera Module.
 
@@ -82,6 +84,3 @@ sleep(5)
 camera.stop_recording()
 camera.stop_preview()
 ````
-
-## How it looks like 
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png" width="300"/>
