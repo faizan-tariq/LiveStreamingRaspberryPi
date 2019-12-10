@@ -1,4 +1,4 @@
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png" width="900"/>
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png"/>
 
 # Goal: Live Streaming using Pi
 The Goal is to build live video streaming application using Raspberry Pi and its Camera Module.
