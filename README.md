@@ -15,14 +15,11 @@ We will cover what ever you need to setup and all the basic steps to follow when
 
 ## My Order Detail
 <img align="right" src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/6.png" width="300"></img>
-</br></br>
-- Raspberry Pi 
-https://www.aliexpress.com/item/32615114907.html
-- Camera Module
-https://www.aliexpress.com/item/32672304634.html
-- Acrylic case
-https://www.aliexpress.com/item/32562317225.html
-</br></br></br></br></br></br></br>
+</br>
+- Raspberry Pi https://www.aliexpress.com/item/32615114907.html
+- Camera Module https://www.aliexpress.com/item/32672304634.html
+- Acrylic case https://www.aliexpress.com/item/32562317225.html
+</br></br></br></br></br></br>
 
 ## Assembly
 You need to assemble as follows:
