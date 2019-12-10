@@ -14,7 +14,7 @@ We will cover what ever you need to setup and all the basic steps to follow when
 - Power adapter or usb cable to power up your Raspberry Pi
 
 ## My Order Detail
-<img align="right" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/6.png" width="300"></img>
+<img align="right" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/6.png" width="300"/>
 There are 2 models for Raspberry Pi-3, model B and model B+, since B+ is dedicated for high GPU processing which is suitable for image processing. Since my project wasn't related to much image processing so choosed model B. 
 Make sure your camera module is compatible with model and version of your Raspberry Pi.
 #### I ordered following items (Total Cost: 63.6 USD):
@@ -47,7 +47,7 @@ You will need to download and install operating system on the mounted SD card.
 
 Details can be found here: https://projects.raspberrypi.org/en/projects/noobs-install
 
-<img align="left" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="300">Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.</img></br></br></br></br></br></br></br>
+<img align="left" src="https://faizan-tariq.github.io/LiveStreamingRaspberryPi/5.png" width="300"/>Once done you will be able to see the home screen as shown. Just notice the highlighted part i.e. make sure you have python installed, as we will be using python for writing scripts which can render live streaming straight from Camera to your display screen connected with Raspberry Pi. Normally it comes pre-installed with Raspbian.
 
 ## Getting Started with Camera Module
 From the prompt run 
