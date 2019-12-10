@@ -18,7 +18,6 @@ We will cover what ever you need to setup and all the basic steps to follow when
 
 <p float="left">
 <img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/6.png" width="300"/>
-<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png" width="300"/>
 </p>
 
 ## Assembly
@@ -83,3 +82,6 @@ sleep(5)
 camera.stop_recording()
 camera.stop_preview()
 ````
+
+## How it looks like 
+<img src="https://github.com/faizan-tariq/LiveStreamingRaspberryPi/blob/master/7.png" width="300"/>
